@@ -1,2 +1,2 @@
 # Box
-Exibe o nome em um quadrado
+[console: Box] Exiba seu nome enquadrado em uma caixa.
